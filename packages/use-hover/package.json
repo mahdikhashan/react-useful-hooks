@@ -1,6 +1,6 @@
 {
   "name": "use-hover",
-  "version": "2.0.1-alpha.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -9,6 +9,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@mahdikhashan"
   },
-  "repository": "https://github.com/mahdikhashan/react-useful-hooks.git",
-  "gitHead": "579874fac0c781194a7f12bf339ba0ecf9249124"
+  "repository": "https://github.com/mahdikhashan/react-useful-hooks.git"
 }
