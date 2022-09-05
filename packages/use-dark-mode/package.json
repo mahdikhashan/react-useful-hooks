@@ -1,5 +1,5 @@
 {
-  "name": "use-dark-mode",
+  "name": "@mahdikhashan/use-dark-mode",
   "version": "0.1.1",
   "main": "index.js",
   "license": "MIT",
