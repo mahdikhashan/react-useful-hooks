@@ -9,5 +9,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@mahdikhashan"
   },
-  "repository": "https://github.com/mahdikhashan/react-useful-hooks"
+  "repository": "https://github.com/mahdikhashan/react-useful-hooks.git",
+  "gitHead": "579874fac0c781194a7f12bf339ba0ecf9249124"
 }
