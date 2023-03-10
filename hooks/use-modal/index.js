@@ -1,8 +1,6 @@
-/* eslint-disable */
-
 import { useContext, useMemo, useCallback } from 'react';
-import ModalContext from "../contexts/modal/ModalContext";
-import ModalProvider from "../contexts/modal/ModalProvider";
+import ModalContext from "./provider/ModalContext";
+import ModalProvider from "./provider/ModalProvider";
 
 const generateModalKey = (() => {
   let count = 0;
