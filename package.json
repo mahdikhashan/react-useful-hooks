@@ -1,6 +1,7 @@
 {
   "name": "react-usefull-hooks",
   "version": "1.1.0",
+  "private": "true",
   "main": "index.js",
   "author": "Mahdi Khashan <mahdikhashan1@gmail.com>",
   "license": "MIT",
@@ -8,6 +9,7 @@
     "lerna": "^5.5.0"
   },
   "workspaces": [
-    "hooks/*"
+    "hooks/*",
+    "components/*"
   ]
 }
