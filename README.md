@@ -1,6 +1,6 @@
-# React Useful Hooks
+# React Useful
 
-A list of useful hooks which are required for every react project.
+A list of useful hooks and components which are required for every react project.
 
 ## How to publish
 
