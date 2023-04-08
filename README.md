@@ -1,4 +1,4 @@
-# React Useful
+# React Useful Hooks
 
 A handy list of useful hooks and components which are required for every react project.
 
